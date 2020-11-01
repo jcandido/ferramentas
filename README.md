@@ -1,2 +1,2 @@
 # ferramentas
-Contém vários scripts em PHP que servem como feramentas úteis
+Contém vários scripts em PHP que servem como ferramentas úteis
